@@ -7,6 +7,9 @@
 ## 1. Nombre y Logotipo
 El nombre y el logotipo son la cara visible de la marca.
 
+![Imagen Moda](https://raw.githubusercontent.com/Scr1ptechnick/DesignFashion/refs/heads/main/Prueba_DesignFashion.webp)
+
+
 - **Nombre:** Debe ser memorable, relacionado con viajes y emociones positivas, como *"Nomadica"*, *"ViaJour"* o *"Altair Travel"*.
 - **Logotipo:** Diseña un símbolo simple pero distintivo. Por ejemplo, una brújula minimalista o una maleta estilizada que evoque movimiento y aventura. Asegúrate de que sea versátil y funcione en diferentes tamaños y soportes.
 
