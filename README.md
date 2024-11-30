@@ -2,6 +2,8 @@
 
 # Identidad de Marca: Accesorios de Viaje
 
+![Imagen Moda](https://raw.githubusercontent.com/Scr1ptechnick/DesignFashion/refs/heads/main/Dama_con_maletas_DesignFashion.jpg)
+
 ## 1. Nombre y Logotipo
 El nombre y el logotipo son la cara visible de la marca.
 
