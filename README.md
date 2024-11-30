@@ -2,6 +2,19 @@
 
 # Identidad de Marca: Accesorios de Viaje
 
+| Estudiante | Horas de Estudio | Nivel de Asistencia (%) | Actividades Extracurriculares (Sí/No) | Promedio Anterior | Puntaje en Examen |
+|------------|------------------|--------------------------|---------------------------------------|-------------------|-------------------|
+| 1          | 5                | 90                       | Sí                                    | 70                | 75                |
+| 2          | 3                | 80                       | No                                    | 65                | 60                |
+| 3          | 4                | 95                       | Sí                                    | 85                | 85                |
+| 4          | 2                | 75                       | No                                    | 60                | 50                |
+| 5          | 6                | 85                       | Sí                                    | 78                | 80                |
+| 6          | 7                | 90                       | Sí                                    | 55                | 90                |
+| 7          | 9                | 95                       | No                                    | 50                | 95                |
+| 8          | 3                | 75                       | Sí                                    | 60                | 55                |
+| 9          | 8                | 85                       | No                                    | 70                | 80                |
+| 10         | 10               | 100                      | Sí                                    | 92                | 95                |
+
 
 ![Imagen Moda](https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true)
 
