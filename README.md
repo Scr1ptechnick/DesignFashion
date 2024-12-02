@@ -16,7 +16,7 @@
 | 10         | 10               | 100                      | Sí                                    | 92                | 95                |
 
 
-<img src="https://via.placeholder.com/800x400.png](https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" width="400" height="200" />
+<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" width="400" height="200" />
 
 
 ## 1. Nombre y Logotipo
