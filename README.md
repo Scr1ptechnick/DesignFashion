@@ -22,7 +22,7 @@
 ## 1. Nombre y Logotipo
 El nombre y el logotipo son la cara visible de la marca.
 
-<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" width="600" height="900"/>
+<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" width="80%" height="80%"/>
 
 ![Imagen Moda](https://raw.githubusercontent.com/Scr1ptechnick/DesignFashion/refs/heads/main/Prueba_DesignFashion.webp)
 
