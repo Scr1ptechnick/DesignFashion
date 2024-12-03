@@ -16,11 +16,13 @@
 | 10         | 10               | 100                      | Sí                                    | 92                | 95                |
 
 
-<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" />
+
 
 
 ## 1. Nombre y Logotipo
 El nombre y el logotipo son la cara visible de la marca.
+
+<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/Dama_con_maletas_DesignFashion.jpg?raw=true" width="800" height="600"/>
 
 ![Imagen Moda](https://raw.githubusercontent.com/Scr1ptechnick/DesignFashion/refs/heads/main/Prueba_DesignFashion.webp)
 
