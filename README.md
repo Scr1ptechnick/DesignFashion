@@ -1,5 +1,9 @@
 # DesignFashion
 
+<img src="https://github.com/Scr1ptechnick/DesignFashion/blob/main/scrum_master.jpg?raw=true" alt="Descripción de la imagen" width="300" height="auto">
+
+
+
 # Identidad de Marca: Accesorios de Viaje
 
 | Estudiante | Horas de Estudio | Nivel de Asistencia (%) | Actividades Extracurriculares (Sí/No) | Promedio Anterior | Puntaje en Examen |
